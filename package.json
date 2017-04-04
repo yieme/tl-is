@@ -1,0 +1,23 @@
+{
+  "name": "tl-is",
+  "version": "1.0.0",
+  "description": "To Lazy IS testing harness. Just copy/paste one tiny 122 byte line. No dependencies or a need for require, grunt, gulp, webpack, etc.",
+  "main": "tl-is.js",
+  "scripts": {
+    "test": "node spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yieme@github.com.com/yieme/tl-is"
+  },
+  "keywords": [
+    "testing",
+    "assert",
+    "require",
+    "grunt",
+    "gulp",
+    "webpack"
+  ],
+  "author": "Yieme",
+  "license": "MIT"
+}
